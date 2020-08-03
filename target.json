@@ -1,0 +1,10 @@
+{
+  "web":{
+    "baseURL": "http://localhost/mantisbt-1.2.20/mantisbt-1.2.20/",
+    "projectsURL": "http://localhost/mantisbt-1.2.20/mantisbt-1.2.20/manage_proj_page.php"
+  },
+  "webadmin":{
+    "username": "administrator",
+    "password": "root"
+  }
+}
